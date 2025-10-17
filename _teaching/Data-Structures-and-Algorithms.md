@@ -3,7 +3,7 @@ title: "Data Structures and Algorithms"
 collection: teaching
 type: "Undergraduate Course"
 role: "Teaching Assistant"
-permalink: /teaching/ds
+# permalink: /teaching/ds
 venue: "University of Tehran, ECE Department"
 location: "Tehran, Iran"
 excerpt: ""

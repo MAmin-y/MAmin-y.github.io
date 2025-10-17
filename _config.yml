@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Mohammad Amin Yousefi"
   pronouns         : "he/him"  
   bio              : "Undergraduate Computer Engineering Student"
   location         : "Tehran, Iran"
-  # employer         : "Red Brick University"
+  employer         : # "Red Brick University"
   uri              : # URL
   email            : "m.amin.yousefi2003@gmai.com" 
 

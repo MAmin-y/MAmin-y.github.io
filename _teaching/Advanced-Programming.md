@@ -3,7 +3,7 @@ title: "Advanced Programming"
 collection: teaching
 type: "Undergraduate Course"
 role: "Teaching Assistant"
-permalink: /teaching/ap
+# permalink: /teaching/ap
 venue: "University of Tehran, ECE Department"
 location: "Tehran, Iran"
 excerpt: ""

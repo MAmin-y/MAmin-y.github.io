@@ -3,7 +3,7 @@ title: "Algorithm Design"
 collection: teaching
 type: "Undergraduate Course"
 role: "Teaching Assistant"
-permalink: /teaching/da
+# permalink: /teaching/da
 venue: "University of Tehran, ECE Department"
 location: "Tehran, Iran"
 excerpt: ""

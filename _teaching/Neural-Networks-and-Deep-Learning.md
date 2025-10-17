@@ -3,7 +3,7 @@ title: "Neural Networks and Deep Learning"
 collection: teaching
 type: "Graduate Course"
 role: "Teaching Assistant"
-permalink: /teaching/ap
+# permalink: /teaching/ap
 venue: "Tehran Institute for Advanced Studies (TIAS)"
 location: "Tehran, Iran"
 excerpt: ""

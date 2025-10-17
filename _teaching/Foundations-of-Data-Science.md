@@ -3,7 +3,7 @@ title: "Foundations of Data Science"
 collection: teaching
 type: "Undergraduate Course"
 role: "Supervisor Teaching Assistant"
-permalink: /teaching/ap/head
+# permalink: /teaching/ap/head
 venue: "University of Tehran, ECE Department"
 location: "Tehran, Iran"
 excerpt: ""

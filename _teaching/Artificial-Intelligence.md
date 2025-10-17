@@ -3,7 +3,7 @@ title: "Artificial Intelligence"
 collection: teaching
 type: "Undergraduate Course"
 role: "Teaching Assistant"
-permalink: /teaching/ai
+# permalink: /teaching/ai
 venue: "University of Tehran, ECE Department"
 location: "Tehran, Iran"
 excerpt: ""
