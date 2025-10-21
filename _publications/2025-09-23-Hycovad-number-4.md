@@ -4,7 +4,7 @@ collection: publications
 category: journal
 # permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ''
-date: 2025-09-15
+date: 2025-09-23
 # venue: 'Journal 1'
 submitted: 'International Journal of Computer Vision (IJCV) 2026'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
