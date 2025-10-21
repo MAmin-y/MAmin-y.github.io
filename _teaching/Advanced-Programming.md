@@ -7,7 +7,7 @@ role: "Teaching Assistant"
 venue: "University of Tehran, ECE Department"
 location: "Tehran, Iran"
 excerpt: ""
-date: 
+date: ""
 ---
 
 Instructor(s)
