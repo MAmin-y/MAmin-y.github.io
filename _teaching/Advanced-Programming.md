@@ -7,6 +7,7 @@ role: "Teaching Assistant"
 venue: "University of Tehran, ECE Department"
 location: "Tehran, Iran"
 excerpt: ""
+date: 2025-09-23
 ---
 
 Instructor(s)
