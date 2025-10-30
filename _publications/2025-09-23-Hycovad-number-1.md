@@ -1,8 +1,8 @@
 ---
 title: "HyCoVAD: A Hybrid SSL-LLM Model for Complex Video Anomaly Detection"
 collection: publications
-category: journal
-# permalink: /publication/2009-10-01-paper-title-number-1
+category: conferences
+permalink: /publication/2025-09-23-Hycovad-number-1
 excerpt: ''
 date: 2025-09-23
 # venue: 'Journal 1'
